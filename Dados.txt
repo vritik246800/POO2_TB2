@@ -1,0 +1,60 @@
+829134567;Joao Lima;04/07/2024;Em processo;Toyota;Corolla;10235;150;3501000;p;Pessoal;d;03/15/2028
+869346789;Carlos Mendes;01/10/2024;Em processo;Volkswagen;Gol;54891;2000;120000;e;15;r;MVL
+849567901;Bruno Costa;04/07/2024;em processo;Chevrolet;Onix;17864;2400;989000;e;5;r;VV
+869678912;Fernanda Rocha;12/19/2023;Entrega concluída;Hyundai;HB20;870;300;180000;p;Pessoal;n;nao;1
+849890124;Patricia Lima;10/11/2023;em processo;Renault;Sandero;7612;1800;560000;e;50;e;Ministerio de Saude;sim
+869901234;Thiago Moreira;03/07/2024;em transito;Fiat;Argo;389;900;150000;e;53;r;LM
+841234567;Eduardo Alves;01/18/2024;em processo;Toyota;Yaris;5743;800;320000;e;50;e;Ministerio da Economia;nao
+869345678;Larissa Gomes;07/13/2023;em transito;Volkswagen;Polo;2497;500;100000;p;Pessoal;d;04/16/2029
+849467890;Camila Duarte;02/09/2024;em processo;Chevrolet;Tracker;9175;1600;120000;e;53;r;YM
+869568901;Gabriel Nunes;05/30/2023;em transito;Fiat;Cronos;805;500;200000;p;Pessoal;n;sim;2
+849789123;Marcelo Pinto;09/17/2023;em processo;Hyundai;Creta;30876;1900;230000;e;10;r;DriveMax
+869890134;Tatiane Lima;01/29/2024;em transito;Renault;Logan;9201;750;280000;e;10;e;VM;sim
+849012346;Vanessa Teixeira;04/05/2024;em processo;Nissan;Kicks;310;130;170000;p;Profissional;d;05/21/2029
+849234567;Maria Souza;11/22/2023;entrega concluida;Honda;Civic;9842;1250;758000;p;Profissional;n;sim;5
+829467890;Ana Oliveira;09/05/2023;entrega concluida;Ford;Ka;32987;650;250000;e;20;e;Ministerio do Interior;nao
+829780123;Lucas Freitas;04/03/2024;entrega concluida;Nissan;Versa;45028;2200;375000;p;pessoal;n;nao;3
+829012456;Juliana Martins;08/20/2023;entrega concluida;Jeep;Renegade;11200;1100;450000;p;Profissional;d;05/01/2025
+829345689;Andre Ferreira;06/25/2023;entrega concluida;Honda;Fit;65230;2500;875000;p;Profissional;d;04/17/2025
+829678902;Leticia Barros;03/21/2024;entrega concluida;Ford;EcoSport;14532;1400;520000;e;10;r;AutoPrime
+829901234;Rafael Cardoso;12/03/2023;Em processo;Jeep;Compass;48003;2100;150000;e;25;r;DK
+839234567;Renato Silva;05/21/2024;em processo;Toyota;Corolla;54321;1800;250000;p;Profissional;d;04/30/2027
+859456789;Beatriz Ramos;06/12/2024;em transito;Ford;Fiesta;8321;1600;140000;p;Profissional;n;nao;1
+869567891;Samuel Monteiro;03/18/2024;entrega concluida;Volkswagen;Up;3005;1000;99000;e;12;r;FastDrive
+849789456;Cintia Rocha;01/27/2024;em processo;Hyundai;HB20S;1188;1500;170000;e;8;r;MaxCar
+829345123;Alberto Mendes;09/15/2023;em transito;Fiat;Uno;2222;1200;80000;p;Pessoal;d;06/11/2028
+839456789;Tatiane Lopes;07/09/2023;entrega concluida;Chevrolet;Spin;9981;2000;350000;p;Profissional;n;sim;3
+859789321;Pedro Azevedo;10/11/2023;Entrega concluída;Honda;HR-V;3040;1900;410000;e;20;e;Agencia Nacional de Energia;sim
+869890124;Amanda Ferreira;11/05/2023;em processo;Renault;Captur;9090;1750;300000;e;15;r;NovaAuto
+849012345;Bruna Matos;12/01/2023;em transito;Hyundai;Tucson;7801;2200;510000;p;Profissional;d;02/20/2027
+869123456;Roberto Nunes;03/14/2024;em processo;Toyota;Hilux;3150;2800;750000;e;30;e;Ministerio da Defesa;sim
+829654321;Silvia Duarte;06/01/2024;em processo;Nissan;Frontier;4440;2700;690000;e;40;r;FleetX
+849345123;Igor Silva;01/20/2024;entrega concluida;Volkswagen;Jetta;7300;2000;540000;p;Profissional;n;nao;2
+839789654;Claudia Souza;02/18/2024;entrega concluida;Chevrolet;Cobalt;5500;1900;430000;p;Pessoal;d;01/12/2027
+829567890;Fernando Gomes;04/29/2024;em transito;Ford;Focus;6900;1500;320000;e;5;r;CityAuto
+869345987;Marina Costa;09/09/2023;em processo;Jeep;Commander;1500;2200;890000;p;Profissional;d;10/10/2029
+859678901;Julio Andrade;05/19/2024;em processo;Honda;WR-V;1600;1600;390000;p;Pessoal;n;sim;4
+869234567;Isabela Lima;07/02/2023;entrega concluida;Renault;Kwid;1030;999;97000;p;Pessoal;n;nao;1
+849789654;Murilo Borges;08/22/2023;em transito;Volkswagen;Voyage;2765;1400;215000;e;9;r;AutoBrasil
+829901456;Vanessa Cardoso;03/03/2024;entrega concluida;Fiat;Pulse;9123;1800;370000;p;Profissional;d;03/03/2028
+859345789;Carla Figueira;12/12/2023;em processo;Toyota;Corolla Cross;4789;2000;460000;e;18;e;Ministerio da Agricultura;nao
+849012678;Luan Pereira;02/14/2024;em processo;Nissan;March;3012;1200;175000;p;Pessoal;d;06/21/2028
+859234567;Marina Teixeira;05/16/2024;em transito;Honda;Fit;4567;1300;210000;p;Profissional;n;sim;2
+869456789;Thiago Ribeiro;06/04/2024;em processo;Chevrolet;Cruze;8123;1800;390000;e;10;r;SpeedCar
+839345987;Patricia Nogueira;01/08/2024;entrega concluida;Toyota;Etios;1900;1400;220000;p;Profissional;d;08/14/2027
+829456321;Hugo Barbosa;03/25/2024;em processo;Renault;Stepway;5678;1500;240000;e;8;r;AutoMais
+869789234;Tatiane Oliveira;04/09/2024;em transito;Volkswagen;Fox;4312;1400;185000;p;Pessoal;n;nao;1
+849123456;Luciana Castro;05/11/2024;em processo;Fiat;Mobi;9800;1000;95000;p;Profissional;d;11/19/2027
+839456321;Henrique Sales;07/01/2023;entrega concluida;Hyundai;Elantra;7400;2000;410000;p;Pessoal;n;sim;4
+859789654;Aline Ferreira;08/18/2023;entrega concluida;Chevrolet;Spin;6023;1800;330000;e;20;e;Ministerio das Financas;sim
+869678934;Eduardo Santana;09/29/2023;em transito;Toyota;Corolla;5002;1800;320000;e;25;r;TopDrive
+829890123;Valeria Rocha;10/14/2023;em processo;Nissan;Sentra;1100;2000;360000;p;Profissional;d;09/07/2026
+849234678;Joao Fernandes;12/24/2023;entrega concluida;Honda;Civic;7781;2200;420000;p;Profissional;n;sim;5
+839012345;Juliana Batista;01/15/2024;em processo;Renault;Kwid;2345;1000;98000;p;Pessoal;n;nao;2
+859567890;Lucas Medeiros;03/22/2024;em processo;Fiat;Toro;3140;2500;520000;e;15;e;Secretaria de Obras;nao
+869789321;Fernanda Lopes;04/30/2024;em processo;Volkswagen;Saveiro;8512;1600;250000;e;18;r;MultiAuto
+849345678;Carlos Henrique;06/05/2024;entrega concluida;Hyundai;Creta;6050;2000;490000;p;Profissional;d;01/01/2028
+829678901;Daniela Vieira;07/10/2023;em transito;Ford;Ka+;3981;1300;150000;p;Pessoal;n;sim;3
+839567890;Bruno Almeida;08/17/2023;entrega concluida;Toyota;Yaris;2090;1600;280000;p;Profissional;d;02/15/2026
+859345678;Livia Silva;09/28/2023;em processo;Honda;City;1098;1500;270000;p;Profissional;n;nao;1
+869901245;Antonio Cruz;11/03/2023;entrega concluida;Chevrolet;Tracker;3340;1800;360000;e;22;e;Ministerio da Seguranca;sim
